@@ -1,11 +1,12 @@
 import datetime
-import json
 
 import requests
 from bs4 import BeautifulSoup
 
+from save import save
 
-def extract_blog_posts(year, output_file):
+
+def extract_blog_posts(year):
     url = f"https://commandcenter.blogspot.com/{year}/"
     response = requests.get(url)
     if response.status_code == 404:
@@ -25,15 +26,11 @@ def extract_blog_posts(year, output_file):
     return posts
 
 
-if __name__ == "__main__":
+def fetch():
     current_year = datetime.datetime.now().year
     years = list(range(2004, current_year + 1))
-    blog_url = "https://commandcenter.blogspot.com/"
-    output_file = "commandcenter_posts.json"
     posts = []
     for year in years:
         print(f"Processing year: {year}")
-        posts.extend(extract_blog_posts(year, output_file))
-    with open(output_file, "w") as json_file:
-        json.dump(posts, json_file, indent=4)
-    print(f"Sved {len(posts)} posts to {output_file}")
+        posts.extend(extract_blog_posts(year))
+    save("robpike", posts)
