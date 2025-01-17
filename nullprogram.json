@@ -1,0 +1,2207 @@
+[
+    {
+        "url": "https://nullprogram.com/blog/2024/12/20/",
+        "title": "Rules to avoid common extended inline assembly mistakes",
+        "date": "2024-12-20"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2024/11/10/",
+        "title": "Everything I've learned so far about running local LLMs",
+        "date": "2024-11-10"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2024/10/07/",
+        "title": "Windows dynamic linking depends on the active code page",
+        "date": "2024-10-07"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2024/10/03/",
+        "title": "Slim Reader/Writer Locks are neato",
+        "date": "2024-10-03"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2024/09/04/",
+        "title": "Giving C++ std::regex a C makeover",
+        "date": "2024-09-04"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2024/07/31/",
+        "title": "Deep list copy: More than meets the eye",
+        "date": "2024-07-31"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2024/06/30/",
+        "title": "Symbol inspection tools for w64devkit: vc++filt and peports",
+        "date": "2024-06-30"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2024/05/25/",
+        "title": "Arenas and the almighty concatenation operator",
+        "date": "2024-05-25"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2024/05/24/",
+        "title": "Guidelines for computing sizes and subscripts",
+        "date": "2024-05-24"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2024/04/14/",
+        "title": "Speculations on arenas and custom strings in C++",
+        "date": "2024-04-14"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2024/03/05/",
+        "title": "Protecting paths in macro expansions by extending UTF-8",
+        "date": "2024-03-05"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2024/02/05/",
+        "title": "An improved chkstk function on Windows",
+        "date": "2024-02-05"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2024/01/28/",
+        "title": "Two handy GDB breakpoint tricks",
+        "date": "2024-01-28"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2023/12/17/",
+        "title": "So you want custom allocator support in your C library",
+        "date": "2023-12-17"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2023/10/08/",
+        "title": "My personal C coding style as of late 2023",
+        "date": "2023-10-08"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2023/10/05/",
+        "title": "A simple, arena-backed, generic dynamic array for C",
+        "date": "2023-10-05"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2023/09/30/",
+        "title": "An easy-to-implement, arena-friendly hash map",
+        "date": "2023-09-30"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2023/09/27/",
+        "title": "Arena allocator tips and tricks",
+        "date": "2023-09-27"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2023/08/27/",
+        "title": "How to link identical function names from different DLLs",
+        "date": "2023-08-27"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2023/08/23/",
+        "title": "Everything you never wanted to know about Win32 environment blocks",
+        "date": "2023-08-23"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2023/07/31/",
+        "title": "\"Once\" one-time concurrent initialization with an integer",
+        "date": "2023-07-31"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2023/06/26/",
+        "title": "Solving \"Two Sum\" in C with a tiny hash table",
+        "date": "2023-06-26"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2023/06/22/",
+        "title": "My ranking of every Shakespeare play",
+        "date": "2023-06-22"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2023/05/31/",
+        "title": "Hand-written Windows API prototypes: fast, flexible, and tedious",
+        "date": "2023-05-31"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2023/04/29/",
+        "title": "My favorite C compiler flags during development",
+        "date": "2023-04-29"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2023/03/23/",
+        "title": "Practical libc-free threading on Linux",
+        "date": "2023-03-23"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2023/02/15/",
+        "title": "CRT-free in 2023: tips and tricks",
+        "date": "2023-02-15"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2023/02/13/",
+        "title": "Let's implement buffered, formatted output",
+        "date": "2023-02-13"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2023/02/12/",
+        "title": "Let's write a setjmp",
+        "date": "2023-02-12"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2023/02/11/",
+        "title": "My review of the C standard library in practice",
+        "date": "2023-02-11"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2023/01/18/",
+        "title": "u-config: a new, lean pkg-config clone",
+        "date": "2023-01-18"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2023/01/08/",
+        "title": "SDL2 common mistakes and how to avoid them",
+        "date": "2023-01-08"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2022/12/18/",
+        "title": "QOI is now my favorite asset format",
+        "date": "2022-12-18"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2022/10/12/",
+        "title": "I solved the Dandelions paper-and-pencil game",
+        "date": "2022-10-12"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2022/10/05/",
+        "title": "How to build a WaitGroup from a 32-bit integer",
+        "date": "2022-10-05"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2022/10/03/",
+        "title": "Illuminating synchronization edges for ThreadSanitizer",
+        "date": "2022-10-03"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2022/08/08/",
+        "title": "The quick and practical \"MSI\" hash table",
+        "date": "2022-08-08"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2022/07/31/",
+        "title": "My new debugbreak command",
+        "date": "2022-07-31"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2022/06/26/",
+        "title": "Assertions should be more debugger-oriented",
+        "date": "2022-06-26"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2022/05/22/",
+        "title": "My take on \"where's all the code\"",
+        "date": "2022-05-22"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2022/05/14/",
+        "title": "A lock-free, concurrent, generic queue in 32 bits",
+        "date": "2022-05-14"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2022/04/30/",
+        "title": "Luhn algorithm using SWAR and SIMD",
+        "date": "2022-04-30"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2022/03/13/",
+        "title": "A flexible, lightweight, spin-lock barrier",
+        "date": "2022-03-13"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2022/03/07/",
+        "title": "Compressing and embedding a Wordle word list",
+        "date": "2022-03-07"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2022/02/18/",
+        "title": "The wild west of Windows command line parsing",
+        "date": "2022-02-18"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2021/12/31/",
+        "title": "A new protocol and tool for PNG file attachments",
+        "date": "2021-12-31"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2021/12/30/",
+        "title": "Some sanity for C and C++ development on Windows",
+        "date": "2021-12-30"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2021/12/04/",
+        "title": "Fast CSV processing with SIMD",
+        "date": "2021-12-04"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2021/09/15/",
+        "title": "OpenBSD's pledge and unveil from Python",
+        "date": "2021-09-15"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2021/09/14/",
+        "title": "Billions of Code Name Permutations in 32 bits",
+        "date": "2021-09-14"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2021/08/21/",
+        "title": "Test cross-architecture without leaving home",
+        "date": "2021-08-21"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2021/07/30/",
+        "title": "strcpy: a niche function you don't need",
+        "date": "2021-07-30"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2021/06/29/",
+        "title": "More DLL fun with w64devkit: Go, assembly, and Python",
+        "date": "2021-06-29"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2021/05/31/",
+        "title": "How to build and use DLLs on Windows",
+        "date": "2021-05-31"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2021/04/23/",
+        "title": "The cost of Java's EnumSet",
+        "date": "2021-04-23"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2021/04/14/",
+        "title": "Effects of Fortuna",
+        "date": "2021-04-14"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2021/03/11/",
+        "title": "A guide to Windows application development using w64devkit",
+        "date": "2021-03-11"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2021/02/08/",
+        "title": "Well-behaved alias commands on Windows",
+        "date": "2021-02-08"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2021/01/30/",
+        "title": "Single-primitive authenticated encryption for fun",
+        "date": "2021-01-30"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2020/12/31/",
+        "title": "State machines are wonderful tools",
+        "date": "2020-12-31"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2020/11/24/",
+        "title": "You might not need machine learning",
+        "date": "2020-11-24"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2020/11/17/",
+        "title": "Improving on QBasic's Random Number Generator",
+        "date": "2020-11-17"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2020/10/19/",
+        "title": "I Solved British Square",
+        "date": "2020-10-19"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2020/09/25/",
+        "title": "w64devkit: (Almost) Everything You Need",
+        "date": "2020-09-25"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2020/09/04/",
+        "title": "Asynchronously Opening and Closing Files in Asyncio",
+        "date": "2020-09-04"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2020/08/01/",
+        "title": "Conventions for Command Line Options",
+        "date": "2020-08-01"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2020/07/30/",
+        "title": "Exactly-Once Initialization in Asynchronous Python",
+        "date": "2020-07-30"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2020/06/29/",
+        "title": "Netpbm Animation Showcase",
+        "date": "2020-06-29"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2020/05/24/",
+        "title": "Latency in Asynchronous Python",
+        "date": "2020-05-24"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2020/05/15/",
+        "title": "w64devkit: a Portable C and C++ Development Kit for Windows",
+        "date": "2020-05-15"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2020/05/04/",
+        "title": "How to Read UTF-8 Passwords on the Windows Console",
+        "date": "2020-05-04"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2020/04/30/",
+        "title": "When Parallel: Pull, Don't Push",
+        "date": "2020-04-30"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2020/02/13/",
+        "title": "A Go Module Testbed",
+        "date": "2020-02-13"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2020/01/22/",
+        "title": "A Makefile for Emacs Packages",
+        "date": "2020-01-22"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2020/01/21/",
+        "title": "Go's Tooling is an Undervalued Technology",
+        "date": "2020-01-21"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2019/12/29/",
+        "title": "Purgeable Memory Allocations for Linux",
+        "date": "2019-12-29"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2019/12/28/",
+        "title": "Unintuitive JSON Parsing",
+        "date": "2019-12-28"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2019/12/10/",
+        "title": "Efficient Alias of a Built-In Emacs Lisp Function",
+        "date": "2019-12-10"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2019/12/09/",
+        "title": "Chunking Optimizations: Let the Knife Do the Work",
+        "date": "2019-12-09"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2019/11/19/",
+        "title": "On-the-fly Linear Congruential Generator Using Emacs Calc",
+        "date": "2019-11-19"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2019/11/15/",
+        "title": "Infectious Executable Stacks",
+        "date": "2019-11-15"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2019/10/28/",
+        "title": "Legitimate-ish Use of alloca()",
+        "date": "2019-10-28"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2019/10/27/",
+        "title": "Legitimate Use of Variable Length Arrays",
+        "date": "2019-10-27"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2019/09/25/",
+        "title": "No, PHP Doesn't Have Closures",
+        "date": "2019-09-25"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2019/08/09/",
+        "title": "Keyringless GnuPG",
+        "date": "2019-08-09"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2019/07/22/",
+        "title": "The Long Key ID Collider",
+        "date": "2019-07-22"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2019/07/10/",
+        "title": "Predictable, Passphrase-Derived PGP Keys",
+        "date": "2019-07-10"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2019/06/30/",
+        "title": "Go Slices are Fat Pointers",
+        "date": "2019-06-30"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2019/05/29/",
+        "title": "UTF-8 String Indexing Strategies",
+        "date": "2019-05-29"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2019/04/30/",
+        "title": "Looking for Entropy in All the Wrong Places",
+        "date": "2019-04-30"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2019/03/28/",
+        "title": "Fibers: the Most Elegant Windows API",
+        "date": "2019-03-28"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2019/03/22/",
+        "title": "Endlessh: an SSH Tarpit",
+        "date": "2019-03-22"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2019/03/10/",
+        "title": "An Async / Await Library for Emacs Lisp",
+        "date": "2019-03-10"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2019/03/08/",
+        "title": "Python Decorators: Syntactic Artificial Sweetener",
+        "date": "2019-03-08"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2019/02/24/",
+        "title": "The CPython Bytecode Compiler is Dumb",
+        "date": "2019-02-24"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2019/01/25/",
+        "title": "The Day I Fell in Love with Fuzzing",
+        "date": "2019-01-25"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2019/01/23/",
+        "title": "A JavaScript Typed Array Gotcha",
+        "date": "2019-01-23"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2018/12/25/",
+        "title": "A Survey of $RANDOM",
+        "date": "2018-12-25"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2018/11/21/",
+        "title": "Why Aren't There C Conferences?",
+        "date": "2018-11-21"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2018/11/15/",
+        "title": "A JIT Compiler Skirmish with SELinux",
+        "date": "2018-11-15"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2018/10/31/",
+        "title": "The Missing Computer Skills of High School Students",
+        "date": "2018-10-31"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2018/09/20/",
+        "title": "From Vimperator to Tridactyl",
+        "date": "2018-09-20"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2018/09/06/",
+        "title": "Brute Force Incognito Browsing",
+        "date": "2018-09-06"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2018/07/31/",
+        "title": "Prospecting for Hash Functions",
+        "date": "2018-07-31"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2018/07/20/",
+        "title": "The Value of Undefined Behavior",
+        "date": "2018-07-20"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2018/06/23/",
+        "title": "Intercepting and Emulating Linux System Calls with Ptrace",
+        "date": "2018-06-23"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2018/06/10/",
+        "title": "Minimalist C Libraries",
+        "date": "2018-06-10"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2018/05/31/",
+        "title": "Emacs 26 Brings Generators and Threads",
+        "date": "2018-05-31"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2018/05/27/",
+        "title": "When FFI Function Calls Beat Native C",
+        "date": "2018-05-27"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2018/05/01/",
+        "title": "When the Compiler Bites",
+        "date": "2018-05-01"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2018/04/13/",
+        "title": "Blast from the Past: Borland C++ on Windows 98",
+        "date": "2018-04-13"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2018/03/27/",
+        "title": "A Crude Personal Package Manager",
+        "date": "2018-03-27"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2018/02/22/",
+        "title": "Emacs Lisp Lambda Expressions Are Not Self-Evaluating",
+        "date": "2018-02-22"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2018/02/15/",
+        "title": "Two Chaotic Motion Demos",
+        "date": "2018-02-15"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2018/02/14/",
+        "title": "Options for Structured Data in Emacs Lisp",
+        "date": "2018-02-14"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2018/02/07/",
+        "title": "Inspiration from Data-dependent Rotations",
+        "date": "2018-02-07"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2018/01/17/",
+        "title": "Debugging Emacs or: How I Learned to Stop Worrying and Love DTrace",
+        "date": "2018-01-17"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2017/12/14/",
+        "title": "What's in an Emacs Lambda",
+        "date": "2017-12-14"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2017/11/30/",
+        "title": "Initial Evaluation of the Windows Subsystem for Linux",
+        "date": "2017-11-30"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2017/11/03/",
+        "title": "Render Multimedia in Pure C",
+        "date": "2017-11-03"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2017/10/27/",
+        "title": "Make Flet Great Again",
+        "date": "2017-10-27"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2017/10/06/",
+        "title": "A Branchless UTF-8 Decoder",
+        "date": "2017-10-06"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2017/09/21/",
+        "title": "Finding the Best 64-bit Simulation PRNG",
+        "date": "2017-09-21"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2017/09/15/",
+        "title": "Blowpipe: a Blowfish-encrypted, Authenticated Pipe",
+        "date": "2017-09-15"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2017/09/07/",
+        "title": "Gap Buffers Are Not Optimized for Multiple Cursors",
+        "date": "2017-09-07"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2017/09/01/",
+        "title": "Ten Years of Blogging",
+        "date": "2017-09-01"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2017/08/22/",
+        "title": "Vim vs. Emacs: the Working Directory",
+        "date": "2017-08-22"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2017/08/20/",
+        "title": "A Tutorial on Portable Makefiles",
+        "date": "2017-08-20"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2017/07/27/",
+        "title": "Introducing the Pokerware Secure Passphrase Generator",
+        "date": "2017-07-27"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2017/07/19/",
+        "title": "Integer Overflow into Information Disclosure",
+        "date": "2017-07-19"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2017/07/02/",
+        "title": "Rolling Shutter Simulation in C",
+        "date": "2017-07-02"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2017/06/21/",
+        "title": "Stack Clashing for Fun and Profit",
+        "date": "2017-06-21"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2017/06/19/",
+        "title": "Building and Installing Software in $HOME",
+        "date": "2017-06-19"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2017/06/15/",
+        "title": "Switching to the Mutt Email Client",
+        "date": "2017-06-15"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2017/05/15/",
+        "title": "Web Scraping into an E-book with BeautifulSoup and Pandoc",
+        "date": "2017-05-15"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2017/05/03/",
+        "title": "The Adversarial Implementation",
+        "date": "2017-05-03"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2017/04/27/",
+        "title": "Two Games with Monte Carlo Tree Search",
+        "date": "2017-04-27"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2017/04/01/",
+        "title": "My Journey with Touch Typing and Vim",
+        "date": "2017-04-01"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2017/03/30/",
+        "title": "How to Write Portable C Without Complicating Your Build",
+        "date": "2017-03-30"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2017/03/12/",
+        "title": "Why I've Retired My PGP Keys and What's Replaced It",
+        "date": "2017-03-12"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2017/03/01/",
+        "title": "OpenMP and pwrite()",
+        "date": "2017-03-01"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2017/02/14/",
+        "title": "Asynchronous Requests from Emacs Dynamic Modules",
+        "date": "2017-02-14"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2017/01/30/",
+        "title": "How to Write Fast(er) Emacs Lisp",
+        "date": "2017-01-30"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2017/01/21/",
+        "title": "Manual Control Flow Guard in C",
+        "date": "2017-01-21"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2017/01/08/",
+        "title": "C Closures as a Library",
+        "date": "2017-01-08"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2016/12/27/",
+        "title": "Domain-Specific Language Compilation in Elfeed",
+        "date": "2016-12-27"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2016/12/23/",
+        "title": "Relocatable Global Data on x86",
+        "date": "2016-12-23"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2016/12/22/",
+        "title": "Some Performance Advantages of Lexical Scope",
+        "date": "2016-12-22"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2016/12/11/",
+        "title": "Faster Elfeed Search Through JIT Byte-code Compilation",
+        "date": "2016-12-11"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2016/12/01/",
+        "title": "A Showerthoughts Fortune File",
+        "date": "2016-12-01"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2016/11/22/",
+        "title": "Portable Structure Access with Member Offset Constants",
+        "date": "2016-11-22"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2016/11/17/",
+        "title": "A Magnetized Needle and a Steady Hand",
+        "date": "2016-11-17"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2016/11/15/",
+        "title": "Baking Data with Serialization",
+        "date": "2016-11-15"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2016/11/13/",
+        "title": "Zero-allocation Trie Traversal",
+        "date": "2016-11-13"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2016/11/05/",
+        "title": "Emacs, Dynamic Modules, and Joysticks",
+        "date": "2016-11-05"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2016/10/27/",
+        "title": "An Array of Pointers vs. a Multidimensional Array",
+        "date": "2016-10-27"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2016/10/07/",
+        "title": "Small-Size Optimization in C",
+        "date": "2016-10-07"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2016/10/02/",
+        "title": "The Vulgarness of Abbreviated Function Templates",
+        "date": "2016-10-02"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2016/09/23/",
+        "title": "Linux System Calls, Error Numbers, and In-Band Signaling",
+        "date": "2016-09-23"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2016/09/15/",
+        "title": "Render the Mandelbrot Set with jq",
+        "date": "2016-09-15"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2016/09/09/",
+        "title": "Modifying the Middle of a zlib Stream",
+        "date": "2016-09-09"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2016/09/05/",
+        "title": "Inspecting C's qsort Through Animation",
+        "date": "2016-09-05"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2016/09/03/",
+        "title": "How to Read and Write Other Process Memory",
+        "date": "2016-09-03"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2016/09/02/",
+        "title": "Two Years as a High School Mentor",
+        "date": "2016-09-02"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2016/08/12/",
+        "title": "An Elfeed Database Analysis",
+        "date": "2016-08-12"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2016/08/07/",
+        "title": "Automatic Deletion of Incomplete Output Files",
+        "date": "2016-08-07"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2016/08/03/",
+        "title": "Appending to a File from Multiple Processes",
+        "date": "2016-08-03"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2016/07/25/",
+        "title": "Const and Optimization in C",
+        "date": "2016-07-25"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2016/06/23/",
+        "title": "Stealing Session Cookies with Tcpdump",
+        "date": "2016-06-23"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2016/06/16/",
+        "title": "Elfeed, cURL, and You",
+        "date": "2016-06-16"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2016/06/13/",
+        "title": "Four Ways to Compile C for Windows",
+        "date": "2016-06-13"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2016/05/30/",
+        "title": "You Can't Always Hash Pointers in C",
+        "date": "2016-05-30"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2016/04/30/",
+        "title": "Makefile Assignments are Turing-Complete",
+        "date": "2016-04-30"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2016/04/10/",
+        "title": "Mapping Multiple Memory Views in User Space",
+        "date": "2016-04-10"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2016/03/31/",
+        "title": "Hotpatching a C Function on x86",
+        "date": "2016-03-31"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2016/02/28/",
+        "title": "Calling the Native API While Freestanding",
+        "date": "2016-02-28"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2016/01/31/",
+        "title": "Small, Freestanding Windows Executables",
+        "date": "2016-01-31"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2015/12/03/",
+        "title": "9 Elfeed Features You Might Not Know",
+        "date": "2015-12-03"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2015/11/21/",
+        "title": "Quickly Access x86 Documentation in Emacs",
+        "date": "2015-11-21"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2015/10/30/",
+        "title": "RSA Signatures in Emacs Lisp",
+        "date": "2015-10-30"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2015/10/14/",
+        "title": "Counting Processor Cores in Emacs",
+        "date": "2015-10-14"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2015/09/26/",
+        "title": "Web Tips For Webcomic Authors",
+        "date": "2015-09-26"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2015/09/15/",
+        "title": "Recovering Live Data with GDB",
+        "date": "2015-09-15"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2015/09/03/",
+        "title": "Shamus Young's Twenty-Sided Tale E-book",
+        "date": "2015-09-03"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2015/07/10/",
+        "title": "Mandelbrot Set with SIMD Intrinsics",
+        "date": "2015-07-10"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2015/06/06/",
+        "title": "Minimal OpenGL 3.3 Core Profile Demo",
+        "date": "2015-06-06"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2015/05/15/",
+        "title": "Raw Linux Threads via System Calls",
+        "date": "2015-05-15"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2015/04/19/",
+        "title": "NASM x86 Assembly Major Mode for Emacs",
+        "date": "2015-04-19"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2015/03/19/",
+        "title": "A Basic Just-In-Time Compiler",
+        "date": "2015-03-19"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2015/03/15/",
+        "title": "Goblin-COM 7DRL 2015",
+        "date": "2015-03-15"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2015/02/17/",
+        "title": "Generic C Reference Counting",
+        "date": "2015-02-17"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2014/12/23/",
+        "title": "Interactive Programming in C",
+        "date": "2014-12-23"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2014/12/09/",
+        "title": "How to build DOS COM files with GCC",
+        "date": "2014-12-09"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2014/11/22/",
+        "title": "LZSS Quine Puzzle",
+        "date": "2014-11-22"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2014/10/21/",
+        "title": "C Object Oriented Programming",
+        "date": "2014-10-21"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2014/10/19/",
+        "title": "Emacs Autotetris Mode",
+        "date": "2014-10-19"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2014/10/12/",
+        "title": "Global State: a Tale of Two Bad C APIs",
+        "date": "2014-10-12"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2014/09/18/",
+        "title": "The Billion Pi Challenge",
+        "date": "2014-09-18"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2014/09/02/",
+        "title": "C11 Lock-free Stack",
+        "date": "2014-09-02"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2014/08/29/",
+        "title": "Stabilizing C's Quicksort",
+        "date": "2014-08-29"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2014/06/29/",
+        "title": "A GPU Approach to Particle Physics",
+        "date": "2014-06-29"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2014/06/22/",
+        "title": "A GPU Approach to Path Finding",
+        "date": "2014-06-22"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2014/06/21/",
+        "title": "Feedback Applet Ported to WebGL",
+        "date": "2014-06-21"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2014/06/13/",
+        "title": "Emacs Unicode Pitfalls",
+        "date": "2014-06-13"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2014/06/10/",
+        "title": "A GPU Approach to Conway's Game of Life",
+        "date": "2014-06-10"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2014/06/08/",
+        "title": "Tag Feeds for null program",
+        "date": "2014-06-08"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2014/06/06/",
+        "title": "Per Loop vs. Per Iteration Bindings",
+        "date": "2014-06-06"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2014/06/04/",
+        "title": "Emacs Chat with Sacha Chua",
+        "date": "2014-06-04"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2014/06/01/",
+        "title": "A GPU Approach to Voronoi Diagrams",
+        "date": "2014-06-01"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2014/05/27/",
+        "title": "Emacs Lisp Buffer Passing Style",
+        "date": "2014-05-27"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2014/05/14/",
+        "title": "Digispark and Debian",
+        "date": "2014-05-14"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2014/04/26/",
+        "title": "An Emacs Foreign Function Interface",
+        "date": "2014-04-26"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2014/04/25/",
+        "title": "Three Dimensions of Type Systems",
+        "date": "2014-04-25"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2014/04/01/",
+        "title": "Duck Typing vs. Type Erasure",
+        "date": "2014-04-01"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2014/03/31/",
+        "title": "Northbound 7DRL 2014",
+        "date": "2014-03-31"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2014/03/19/",
+        "title": "Emacs Lisp Defstruct Namespace Convention",
+        "date": "2014-03-19"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2014/03/06/",
+        "title": "The Julia Programming Language",
+        "date": "2014-03-06"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2014/02/15/",
+        "title": "Reimaging a VM from the inside with Debian",
+        "date": "2014-02-15"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2014/02/06/",
+        "title": "Introducing EmacSQL",
+        "date": "2014-02-06"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2014/01/27/",
+        "title": "Emacs Lisp Object Finalizers",
+        "date": "2014-01-27"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2014/01/26/",
+        "title": "Measure Elisp Object Memory Usage with Calipers",
+        "date": "2014-01-26"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2014/01/04/",
+        "title": "Emacs Byte-code Internals",
+        "date": "2014-01-04"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2013/12/30/",
+        "title": "Emacs Lisp Readable Closures",
+        "date": "2013-12-30"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2013/12/18/",
+        "title": "Clojure-style Multimethods in Emacs Lisp",
+        "date": "2013-12-18"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2013/12/16/",
+        "title": "Emacs Lisp Reddit API Wrapper",
+        "date": "2013-12-16"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2013/11/28/",
+        "title": "Emacs, Thanksgiving, and Hanukkah",
+        "date": "2013-11-28"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2013/11/26/",
+        "title": "Elfeed Tips and Tricks",
+        "date": "2013-11-26"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2013/10/13/",
+        "title": "My Grading Process",
+        "date": "2013-10-13"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2013/09/23/",
+        "title": "Atom vs. RSS",
+        "date": "2013-09-23"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2013/09/09/",
+        "title": "The Elfeed Database",
+        "date": "2013-09-09"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2013/09/04/",
+        "title": "Introducing Elfeed, an Emacs Web Feed Reader",
+        "date": "2013-09-04"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2013/09/03/",
+        "title": "Leaving Gmail Behind",
+        "date": "2013-09-03"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2013/08/17/",
+        "title": "JavaScript Function Metaprogramming",
+        "date": "2013-08-17"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2013/08/16/",
+        "title": "Coining Autoism",
+        "date": "2013-08-16"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2013/07/31/",
+        "title": "Live Systems are Handy",
+        "date": "2013-07-31"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2013/06/26/",
+        "title": "Liquid Simulation in WebGL",
+        "date": "2013-06-26"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2013/06/17/",
+        "title": "Personal OS Configuration Live System",
+        "date": "2013-06-17"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2013/06/16/",
+        "title": "An HTML5 Canvas Design Pattern",
+        "date": "2013-06-16"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2013/06/13/",
+        "title": "Life Beyond Google Reader",
+        "date": "2013-06-13"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2013/06/10/",
+        "title": "Long Live WebGL",
+        "date": "2013-06-10"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2013/06/07/",
+        "title": "Emacs Mouse Slider Mode for Numbers",
+        "date": "2013-06-07"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2013/06/02/",
+        "title": "A Handy Emacs Package Configuration Macro",
+        "date": "2013-06-02"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2013/06/01/",
+        "title": "Skewer Gets HTML Interaction",
+        "date": "2013-06-01"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2013/05/23/",
+        "title": "Should Emacs Packages Self Configure?",
+        "date": "2013-05-23"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2013/05/18/",
+        "title": "Load Libraries in Skewer with Bower",
+        "date": "2013-05-18"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2013/05/14/",
+        "title": "JavaScript Function Statements vs. Expressions",
+        "date": "2013-05-14"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2013/05/11/",
+        "title": "Inventing a Datetime Web Service",
+        "date": "2013-05-11"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2013/05/01/",
+        "title": "Disc RL in the Media",
+        "date": "2013-05-01"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2013/04/28/",
+        "title": "Userspace Threading in JavaScript",
+        "date": "2013-04-28"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2013/04/27/",
+        "title": "Tracking Mobile Device Orientation with Emacs",
+        "date": "2013-04-27"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2013/04/07/",
+        "title": "Prototype-based Elisp Objects with @",
+        "date": "2013-04-07"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2013/03/28/",
+        "title": "Precise JavaScript Serialization with ResurrectJS",
+        "date": "2013-03-28"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2013/03/27/",
+        "title": "JavaScript Fantasy Name Generator",
+        "date": "2013-03-27"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2013/03/25/",
+        "title": "A Seedable JavaScript PRNG",
+        "date": "2013-03-25"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2013/03/24/",
+        "title": "Applying Constructors in JavaScript",
+        "date": "2013-03-24"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2013/03/17/",
+        "title": "7DRL 2013 Complete",
+        "date": "2013-03-17"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2013/03/11/",
+        "title": "Serializing JavaScript Objects",
+        "date": "2013-03-11"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2013/02/25/",
+        "title": "Fast Monte Carlo Method with JavaScript",
+        "date": "2013-02-25"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2013/02/08/",
+        "title": "Memory Leaks with XMLHttpRequest Objects",
+        "date": "2013-02-08"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2013/02/07/",
+        "title": "JavaScript \"Map With This\"",
+        "date": "2013-02-07"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2013/02/06/",
+        "title": "How to Make an Emacs Minor Mode",
+        "date": "2013-02-06"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2013/01/30/",
+        "title": "Emacs Javadoc Lookups Get a Facelift",
+        "date": "2013-01-30"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2013/01/26/",
+        "title": "Web Distributed Computing Revisited",
+        "date": "2013-01-26"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2013/01/24/",
+        "title": "Live CSS Interaction with Skewer",
+        "date": "2013-01-24"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2013/01/22/",
+        "title": "The Limits of Emacs Advice",
+        "date": "2013-01-22"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2013/01/20/",
+        "title": "Parameter Lists in Common Lisp and Clojure",
+        "date": "2013-01-20"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2013/01/14/",
+        "title": "Turning Asynchronous into Synchronous in Elisp",
+        "date": "2013-01-14"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2013/01/13/",
+        "title": "Flu Trends Timeline",
+        "date": "2013-01-13"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2013/01/07/",
+        "title": "Clojure and Emacs for Lispers",
+        "date": "2013-01-07"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2012/12/29/",
+        "title": "An Emacs Pastebin",
+        "date": "2012-12-29"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2012/12/18/",
+        "title": "How a simple-httpd Vulnerability Slipped In",
+        "date": "2012-12-18"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2012/12/17/",
+        "title": "Elisp Weak References",
+        "date": "2012-12-17"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2012/12/06/",
+        "title": "A Use For Macrolet",
+        "date": "2012-12-06"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2012/11/28/",
+        "title": "JavaScript Truthiness Quiz",
+        "date": "2012-11-28"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2012/11/20/",
+        "title": "Raising the Dead with JavaScript",
+        "date": "2012-11-20"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2012/11/19/",
+        "title": "JavaScript Debugging Challenge",
+        "date": "2012-11-19"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2012/11/15/",
+        "title": "JavaScript Strings as Arrays",
+        "date": "2012-11-15"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2012/11/14/",
+        "title": "JavaScript's Quirky eval",
+        "date": "2012-11-14"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2012/10/31/",
+        "title": "Skewer: Emacs Live Browser Interaction",
+        "date": "2012-10-31"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2012/10/15/",
+        "title": "Debian Bugtracker Data",
+        "date": "2012-10-15"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2012/09/29/",
+        "title": "Emacs visual-indentation-mode",
+        "date": "2012-09-29"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2012/09/28/",
+        "title": "Emacs Abnormal Termination",
+        "date": "2012-09-28"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2012/09/21/",
+        "title": "Programs as Elisp Macros",
+        "date": "2012-09-21"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2012/09/20/",
+        "title": "Elisp Recursive Descent Parser (rdp)",
+        "date": "2012-09-20"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2012/09/19/",
+        "title": "Revisiting an N-body Simulator",
+        "date": "2012-09-19"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2012/09/14/",
+        "title": "Fractal Rendering in Emacs",
+        "date": "2012-09-14"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2012/09/05/",
+        "title": "Markov Chain Text Generation",
+        "date": "2012-09-05"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2012/09/04/",
+        "title": "Implemented Is Simple Data Compression",
+        "date": "2012-09-04"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2012/08/20/",
+        "title": "simple-httpd and impatient-mode",
+        "date": "2012-08-20"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2012/08/15/",
+        "title": "Elisp Unit Testing with ERT",
+        "date": "2012-08-15"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2012/08/12/",
+        "title": "Switching to the Emacs Lisp Package Archive",
+        "date": "2012-08-12"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2012/08/06/",
+        "title": "The Physical Analog for Encryption is the Hyperdrive",
+        "date": "2012-08-06"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2012/08/02/",
+        "title": "Programmatically Setting Lisp Docstrings",
+        "date": "2012-08-02"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2012/08/01/",
+        "title": "Viewing Java Class Files in Emacs",
+        "date": "2012-08-01"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2012/07/30/",
+        "title": "A Few Tricky C Questions",
+        "date": "2012-07-30"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2012/07/17/",
+        "title": "Literal Arrays and Vectors in Lisp",
+        "date": "2012-07-17"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2012/06/25/",
+        "title": "Moving to Openbox",
+        "date": "2012-06-25"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2012/06/24/",
+        "title": "Publishing My Private Keys",
+        "date": "2012-06-24"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2012/06/23/",
+        "title": "Versioning Personal Configuration Dotfiles",
+        "date": "2012-06-23"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2012/06/08/",
+        "title": "SSH and GPG Agents",
+        "date": "2012-06-08"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2012/06/03/",
+        "title": "Perlin Noise With Octave, Java, and OpenCL",
+        "date": "2012-06-03"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2012/05/19/",
+        "title": "SSH Honeypots",
+        "date": "2012-05-19"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2012/04/30/",
+        "title": "Presentations with Jekyll and deck.js",
+        "date": "2012-04-30"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2012/04/29/",
+        "title": "Why Do Developers Prefer Certain Kinds of Tools?",
+        "date": "2012-04-29"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2012/04/23/",
+        "title": "Pseudo-terminals",
+        "date": "2012-04-23"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2012/04/10/",
+        "title": "Making Your Own GIF Image Macros",
+        "date": "2012-04-10"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2012/03/09/",
+        "title": "Rumor Simulation",
+        "date": "2012-03-09"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2012/02/08/",
+        "title": "Lisp Let in GNU Octave",
+        "date": "2012-02-08"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2012/02/03/",
+        "title": "Cartoon Liquid Simulation",
+        "date": "2012-02-03"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2012/01/19/",
+        "title": "Silky Smooth Perlin Noise Surface",
+        "date": "2012-01-19"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2011/12/16/",
+        "title": "CSS Variables with Jekyll and Liquid",
+        "date": "2011-12-16"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2011/11/28/",
+        "title": "Poor Man's Video Editing",
+        "date": "2011-11-28"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2011/11/19/",
+        "title": "Try Out My Java With Emacs Workflow Within Minutes",
+        "date": "2011-11-19"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2011/11/06/",
+        "title": "Introducing NativeGuide",
+        "date": "2011-11-06"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2011/11/03/",
+        "title": "Some Cool Shell Aliases",
+        "date": "2011-11-03"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2011/10/19/",
+        "title": "Emacs Configuration Repository",
+        "date": "2011-10-19"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2011/10/13/",
+        "title": "Halftone",
+        "date": "2011-10-13"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2011/08/30/",
+        "title": "Java Hot Code Replacement",
+        "date": "2011-08-30"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2011/08/24/",
+        "title": "October Chess Engine Updates",
+        "date": "2011-08-24"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2011/08/18/",
+        "title": "Fake Emacs Namespaces",
+        "date": "2011-08-18"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2011/08/05/",
+        "title": "Moved To New Hosting",
+        "date": "2011-08-05"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2011/07/09/",
+        "title": "Pendulum Waves",
+        "date": "2011-07-09"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2011/06/13/",
+        "title": "Infinite Parallax Starfield",
+        "date": "2011-06-13"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2011/05/01/",
+        "title": "Feedback Loop Applet",
+        "date": "2011-05-01"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2011/04/09/",
+        "title": "October's Chess Engine Gets Some Attention",
+        "date": "2011-04-09"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2011/03/06/",
+        "title": "Movie Montage Comparison",
+        "date": "2011-03-06"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2011/02/19/",
+        "title": "Torrent File Strip",
+        "date": "2011-02-19"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2011/01/30/",
+        "title": "BrianScheme Update: Bootstrapping and Images",
+        "date": "2011-01-30"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2011/01/12/",
+        "title": "The Great Tab Mistake",
+        "date": "2011-01-12"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2011/01/11/",
+        "title": "BrianScheme",
+        "date": "2011-01-11"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2011/01/10/",
+        "title": "Flip Foolflim the Dragon Traitor",
+        "date": "2011-01-10"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2010/12/21/",
+        "title": "Pth and ncurses",
+        "date": "2010-12-21"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2010/11/15/",
+        "title": "Elisp Function Composition",
+        "date": "2010-11-15"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2010/10/20/",
+        "title": "Sudoku Applet",
+        "date": "2010-10-20"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2010/10/18/",
+        "title": "Java Applets Demo Page",
+        "date": "2010-10-18"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2010/10/17/",
+        "title": "A Modest Chess Engine",
+        "date": "2010-10-17"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2010/10/16/",
+        "title": "Lorenz Chaotic Water Wheel Applet",
+        "date": "2010-10-16"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2010/10/15/",
+        "title": "Introducing Java Mode Plus",
+        "date": "2010-10-15"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2010/10/14/",
+        "title": "Jump to Java Documentation from Emacs",
+        "date": "2010-10-14"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2010/10/06/",
+        "title": "Emacs Set Window to 80 Columns",
+        "date": "2010-10-06"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2010/10/04/",
+        "title": "Sample Java Project",
+        "date": "2010-10-04"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2010/09/30/",
+        "title": "Emacs Find All Files",
+        "date": "2010-09-30"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2010/09/29/",
+        "title": "Elisp Higher-order Conversion to Interactive",
+        "date": "2010-09-29"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2010/09/21/",
+        "title": "Throw Up a Quick HTTP Server",
+        "date": "2010-09-21"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2010/09/08/",
+        "title": "Middleman Parallelization",
+        "date": "2010-09-08"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2010/08/13/",
+        "title": "Java is Death By A Thousand Paper Cuts",
+        "date": "2010-08-13"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2010/08/07/",
+        "title": "Distributed Computing with Emacs",
+        "date": "2010-08-07"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2010/07/26/",
+        "title": "Elisp Memoize",
+        "date": "2010-07-26"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2010/07/21/",
+        "title": "GIMP Painting",
+        "date": "2010-07-21"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2010/07/20/",
+        "title": "Pen and Paper RPG Wishlist",
+        "date": "2010-07-20"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2010/07/19/",
+        "title": "GIMP Space Elevator Drawing",
+        "date": "2010-07-19"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2010/07/01/",
+        "title": "Emacs Byte Compilation",
+        "date": "2010-07-01"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2010/06/10/",
+        "title": "Emacs ParEdit and IELM",
+        "date": "2010-06-10"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2010/06/07/",
+        "title": "Elisp Printed Hash Tables",
+        "date": "2010-06-07"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2010/05/20/",
+        "title": "Identifying Files",
+        "date": "2010-05-20"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2010/05/13/",
+        "title": "Neat Random Inn Generator",
+        "date": "2010-05-13"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2010/04/23/",
+        "title": "The Problem with String Stored Regex",
+        "date": "2010-04-23"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2010/04/13/",
+        "title": "Scheme Live Coding",
+        "date": "2010-04-13"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2010/03/31/",
+        "title": "Emacs cat-safe",
+        "date": "2010-03-31"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2010/03/09/",
+        "title": "A Fractran Short Story",
+        "date": "2010-03-09"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2010/02/18/",
+        "title": "Function Pointers are Special",
+        "date": "2010-02-18"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2010/02/06/",
+        "title": "Common Lisp Quick Reference",
+        "date": "2010-02-06"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2010/02/04/",
+        "title": "Wisp Screencasts",
+        "date": "2010-02-04"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2010/01/24/",
+        "title": "Wisp Lisp",
+        "date": "2010-01-24"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2010/01/15/",
+        "title": "Setting up a Common Lisp Environment",
+        "date": "2010-01-15"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2009/12/21/",
+        "title": "Magick Thumbnails",
+        "date": "2009-12-21"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2009/12/13/",
+        "title": "Game of Life in Java",
+        "date": "2009-12-13"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2009/12/06/",
+        "title": "Tweaking Emacs for Ant and Java",
+        "date": "2009-12-06"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2009/11/03/",
+        "title": "Emacs Web Servlets",
+        "date": "2009-11-03"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2009/10/26/",
+        "title": "Your BitTorrent Client is Probably Defective by Design",
+        "date": "2009-10-26"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2009/10/10/",
+        "title": "Comments Upgrade with Avatars",
+        "date": "2009-10-10"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2009/09/27/",
+        "title": "Unorderable Sets",
+        "date": "2009-09-27"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2009/09/02/",
+        "title": "SumoBots Programming Game",
+        "date": "2009-09-02"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2009/09/01/",
+        "title": "null program Turns Two Years Old",
+        "date": "2009-09-01"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2009/08/23/",
+        "title": "Lossless Optimizers",
+        "date": "2009-08-23"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2009/08/05/",
+        "title": "Web Pages Are Liquids",
+        "date": "2009-08-05"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2009/08/02/",
+        "title": "Ad-blocking and the Regrettable URL Format",
+        "date": "2009-08-02"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2009/07/28/",
+        "title": "Television Commercials",
+        "date": "2009-07-28"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2009/07/03/",
+        "title": "Lisp Fantasy Name Generator",
+        "date": "2009-07-03"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2009/06/30/",
+        "title": "Converted to HTML 5",
+        "date": "2009-06-30"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2009/06/23/",
+        "title": "The Emacs Calculator",
+        "date": "2009-06-23"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2009/06/21/",
+        "title": "United States Hamiltonian Paths",
+        "date": "2009-06-21"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2009/06/09/",
+        "title": "JavaScript Distributed Computing",
+        "date": "2009-06-09"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2009/06/02/",
+        "title": "E-mail Obfuscater Perl One-liner",
+        "date": "2009-06-02"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2009/05/29/",
+        "title": "Elisp Wishlist",
+        "date": "2009-05-29"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2009/05/28/",
+        "title": "Elisp Running Time Macro",
+        "date": "2009-05-28"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2009/05/24/",
+        "title": "Unquoted Let",
+        "date": "2009-05-24"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2009/05/23/",
+        "title": "Getting Lisp",
+        "date": "2009-05-23"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2009/05/20/",
+        "title": "Another Perl One-liner: Byte Order",
+        "date": "2009-05-20"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2009/05/17/",
+        "title": "Emacs Web Server",
+        "date": "2009-05-17"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2009/05/12/",
+        "title": "I Finally Have Comments",
+        "date": "2009-05-12"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2009/05/05/",
+        "title": "Greasemonkey User Scripts",
+        "date": "2009-05-05"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2009/05/01/",
+        "title": "Wikipedia Flu Time-lapse",
+        "date": "2009-05-01"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2009/04/28/",
+        "title": "Clay Klein Bottle",
+        "date": "2009-04-28"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2009/04/20/",
+        "title": "A Not So Stupid C Mistake",
+        "date": "2009-04-20"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2009/04/18/",
+        "title": "SWF Decompression Perl One-liner",
+        "date": "2009-04-18"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2009/04/16/",
+        "title": "URL Shortening",
+        "date": "2009-04-16"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2009/04/12/",
+        "title": "Brainfuck Halting Problem",
+        "date": "2009-04-12"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2009/04/10/",
+        "title": "The Lazy Fibonacci List",
+        "date": "2009-04-10"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2009/04/08/",
+        "title": "Apartment Balcony Gardening",
+        "date": "2009-04-08"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2009/04/03/",
+        "title": "Vimperator Firefox Add-on",
+        "date": "2009-04-03"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2009/03/22/",
+        "title": "Avoid Zip Archives",
+        "date": "2009-03-22"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2009/03/16/",
+        "title": "LZMA Tarballs Are Coming",
+        "date": "2009-03-16"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2009/03/05/",
+        "title": "GNU Screen",
+        "date": "2009-03-05"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2009/02/20/",
+        "title": "Readline Wrap",
+        "date": "2009-02-20"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2009/02/14/",
+        "title": "Distributed Issue Tracking",
+        "date": "2009-02-14"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2009/02/12/",
+        "title": "Git is Better",
+        "date": "2009-02-12"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2009/01/04/",
+        "title": "Fantasy Name Generator: Request for Patterns",
+        "date": "2009-01-04"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2008/12/24/",
+        "title": "Don't Write Your Own E-mail Validator",
+        "date": "2008-12-24"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2008/12/22/",
+        "title": "The Fire Gem",
+        "date": "2008-12-22"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2008/12/16/",
+        "title": "Controlling a Minefield",
+        "date": "2008-12-16"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2008/09/17/",
+        "title": "Play NetHack",
+        "date": "2008-09-17"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2008/08/29/",
+        "title": "A GNU Octave Feature",
+        "date": "2008-08-29"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2008/07/25/",
+        "title": "Two-Man Double Blind Coke vs. Pepsi Taste Test",
+        "date": "2008-07-25"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2008/07/20/",
+        "title": "Sudoku Solver",
+        "date": "2008-07-20"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2008/07/18/",
+        "title": "Variable Declarations and the C Call Stack",
+        "date": "2008-07-18"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2008/06/26/",
+        "title": "Up is Down",
+        "date": "2008-06-26"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2008/03/25/",
+        "title": "Memoization",
+        "date": "2008-03-25"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2008/03/15/",
+        "title": "Lisp Number Representations",
+        "date": "2008-03-15"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2008/02/22/",
+        "title": "Linear Spatial Filters with GNU Octave",
+        "date": "2008-02-22"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2008/02/04/",
+        "title": "My Team Won the Robot Competition",
+        "date": "2008-02-04"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2008/01/29/",
+        "title": "The 3n + 1 Conjecture",
+        "date": "2008-01-29"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2008/01/20/",
+        "title": "Optimizing, Multi-threading Brainfuck to C Converter",
+        "date": "2008-01-20"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2007/12/30/",
+        "title": "Movie Montage Poster",
+        "date": "2007-12-30"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2007/12/26/",
+        "title": "A Faster Montage",
+        "date": "2007-12-26"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2007/12/19/",
+        "title": "Unsharp Masking",
+        "date": "2007-12-19"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2007/12/11/",
+        "title": "Movie DNA",
+        "date": "2007-12-11"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2007/11/30/",
+        "title": "Traveling Salesman Problem by Genetic Algorithm",
+        "date": "2007-11-30"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2007/11/20/",
+        "title": "Noise Fractals and Clouds",
+        "date": "2007-11-20"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2007/11/13/",
+        "title": "Neural Network Blackjack Game",
+        "date": "2007-11-13"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2007/11/06/",
+        "title": "Iterated Prisoner's Dilemma",
+        "date": "2007-11-06"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2007/10/24/",
+        "title": "Chess AI Idea",
+        "date": "2007-10-24"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2007/10/16/",
+        "title": "Robot Version 1",
+        "date": "2007-10-16"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2007/10/08/",
+        "title": "Java Animated Maze Generator and Solver",
+        "date": "2007-10-08"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2007/10/01/",
+        "title": "Mandelbrot Set on a Cluster",
+        "date": "2007-10-01"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2007/09/19/",
+        "title": "Proposal for a Free Musical",
+        "date": "2007-09-19"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2007/09/17/",
+        "title": "BCCD Clusters",
+        "date": "2007-09-17"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2007/09/08/",
+        "title": "PNG Archiver - Share Files Within Images",
+        "date": "2007-09-08"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2007/09/05/",
+        "title": "YouTube with Free Software",
+        "date": "2007-09-05"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2007/09/02/",
+        "title": "Mandelbrot with GNU Octave",
+        "date": "2007-09-02"
+    },
+    {
+        "url": "https://nullprogram.com/blog/2007/09/01/",
+        "title": "null program is Alive",
+        "date": "2007-09-01"
+    }
+]

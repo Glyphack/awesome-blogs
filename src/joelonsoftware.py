@@ -32,10 +32,14 @@ def fetch():
                 date = date_match.group(1) if date_match else "Unknown"
                 posts.append(
                     {
+                        "url": article_url,
                         "title": article_link.text.strip(),
-                        "link": article_url,
                         "date": date,
                     }
                 )
 
     save("joelonsoftware", posts)
+
+
+if __name__ == "__main__":
+    fetch()

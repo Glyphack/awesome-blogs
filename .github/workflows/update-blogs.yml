@@ -1,0 +1,31 @@
+name: Update Blog Data
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'src/*.py'
+      - '.github/workflows/update-blogs.yml'
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+    
+    - name: Install uv
+      run: |
+        curl -LsSf https://astral.sh/uv/install.sh | sh
+    
+    - name: Configure Git
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+    
+    - name: Run update script
+      env:
+        CI: true
+      run: make update 

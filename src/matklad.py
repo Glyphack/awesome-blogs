@@ -22,3 +22,7 @@ def fetch():
         posts.append({"url": post_url, "title": title, "date": date})
 
     save("matklad", posts)
+
+
+if __name__ == "__main__":
+    fetch()

@@ -5,7 +5,9 @@ def deduplicate_posts(posts):
     unique_links = set()
     deduplicated_posts = []
     for post in posts:
-        link = post.get("link")
+        link = post.get("url")
+        if link is None:
+            raise ValueError("Post is missing a url")
         if link not in unique_links:
             unique_links.add(link)
             deduplicated_posts.append(post)

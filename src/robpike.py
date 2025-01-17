@@ -34,3 +34,7 @@ def fetch():
         print(f"Processing year: {year}")
         posts.extend(extract_blog_posts(year))
     save("robpike", posts)
+
+
+if __name__ == "__main__":
+    fetch()
